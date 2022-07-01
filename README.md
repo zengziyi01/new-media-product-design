@@ -32,17 +32,23 @@
 
 # 三、页面展示
 
-![img](D:\桌面\homework\大二\下学期项目管理课\期末作业截图\wps2.jpg)![img](D:\桌面\homework\大二\下学期项目管理课\期末作业截图\wps3.jpg) 
+![img](images/wps2.jpg) 
 
-![img](D:\桌面\homework\大二\下学期项目管理课\期末作业截图\wps4.jpg)![img](D:\桌面\homework\大二\下学期项目管理课\期末作业截图\wps5.jpg) 
+![img](images/wps3.jpg) 
 
-![img](D:\桌面\homework\大二\下学期项目管理课\期末作业截图\wps6.jpg) 
+![img](images/wps4.jpg) 
 
-![img](D:\桌面\homework\大二\下学期项目管理课\期末作业截图\wps7.jpg) 
+![img](images/wps5.jpg) 
 
-![img](D:\桌面\homework\大二\下学期项目管理课\期末作业截图\wps8.jpg)![img](D:\桌面\homework\大二\下学期项目管理课\期末作业截图\wps9.jpg) 
+![img](images/wps6.jpg） 
 
-![img](D:\桌面\homework\大二\下学期项目管理课\期末作业截图\wps10.jpg)
+![img](images/wps7.jpg)
+
+![img](images/wps8.jpg)
+
+![img](images/wps9.jpg)
+
+![img](images/wps10.jpg)
 
 # 四、系统演示
 
