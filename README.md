@@ -1,39 +1,32 @@
-# 新媒体产品设计
+一、环境要求
+CentOS 7.0+
+Nginx 1.10+
+PHP 7.1+ (推荐php7.4)
+MySQL 5.6+
 
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
-
-#### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+二、如何安装
+1、宝塔安装（推荐）
+1.将后端源码上传至服务器站点，并且将站点运行目录设置为/public
+2.在浏览器中输入站点域名 + /install，例如：http://81.71.32.159/install
+3.将后端源码上传至服务器站点，并且将站点运行目录设置为/public
+(删除user.ini)
+4.根据页面提示，自动完成安装即可
+2、创建一个数据库
+1.创建一个数据库，例如：yoshop2_db
+2.导入数据库表结构文件，路径：/public/install/data/install_struct.sql
+3.导入数据库默认数据文件，路径：/public/install/data/install_data.sql
+4.修改数据库连接文件，将数据库用户名密码等信息填写完整，路径/.env
+后台地址
+超管后台：http://81.71.32.159/admin
+商户后台：http://81.71.32.159/store
+默认的账户密码：admin yinghuo
+三、页面展示
 
 
-#### 特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+
+
+    
+四、系统演示
+商城后台演示：http:// 81.71.32.159/store
+用户名和密码：admin yinghuo 
