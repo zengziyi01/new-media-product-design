@@ -5,7 +5,7 @@
 - PHP 7.1+ (推荐php7.4)
 - MySQL 5.6+
 
-![img](D:\桌面\homework\大二\下学期项目管理课\期末作业截图\wps1.jpg) 
+![img](images/wps1.jpg) 
 
 # 二、\*******\*如何安装\****
 
